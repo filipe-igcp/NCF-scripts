@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+mysql-connector-python
+QuantLib-Python
+seaborn
+scipy
+xlwings
+pypdf
+python-dateutil

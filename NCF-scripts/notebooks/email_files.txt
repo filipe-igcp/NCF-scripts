@@ -1,0 +1,10 @@
+\\igcp-fs\ncf-ger\Projetos 010-01-01\1_DESENVOLVIMENTO_PROJECTOS_INTERNOS\DASHBOARD_DIARIO\emails_contrapartes\Bankinter_Valuation_20250908.xlsx
+\\igcp-fs\ncf-ger\Projetos 010-01-01\1_DESENVOLVIMENTO_PROJECTOS_INTERNOS\DASHBOARD_DIARIO\emails_contrapartes\ISMA-BSTE-TSPT_BSCH_20250908.XLS
+\\igcp-fs\ncf-ger\Projetos 010-01-01\1_DESENVOLVIMENTO_PROJECTOS_INTERNOS\DASHBOARD_DIARIO\emails_contrapartes\Nati_Valuation_20250908.xlsx
+\\igcp-fs\ncf-ger\Projetos 010-01-01\1_DESENVOLVIMENTO_PROJECTOS_INTERNOS\DASHBOARD_DIARIO\emails_contrapartes\CITI_Valuation_20250908.xlsx
+\\igcp-fs\ncf-ger\Projetos 010-01-01\1_DESENVOLVIMENTO_PROJECTOS_INTERNOS\DASHBOARD_DIARIO\emails_contrapartes\CALY_Valuation_20250908.xlsx
+\\igcp-fs\ncf-ger\Projetos 010-01-01\1_DESENVOLVIMENTO_PROJECTOS_INTERNOS\DASHBOARD_DIARIO\emails_contrapartes\BRED_Valuation_20250908.xlsx
+\\igcp-fs\ncf-ger\Projetos 010-01-01\1_DESENVOLVIMENTO_PROJECTOS_INTERNOS\DASHBOARD_DIARIO\emails_contrapartes\Nomura_Valuation_20250908.xlsx
+\\igcp-fs\ncf-ger\Projetos 010-01-01\1_DESENVOLVIMENTO_PROJECTOS_INTERNOS\DASHBOARD_DIARIO\emails_contrapartes\CGD_Valuation_20250908.xlsx
+\\igcp-fs\ncf-ger\Projetos 010-01-01\1_DESENVOLVIMENTO_PROJECTOS_INTERNOS\DASHBOARD_DIARIO\emails_contrapartes\BBVA_Valuation_20250908.pdf
+\\igcp-fs\ncf-ger\Projetos 010-01-01\1_DESENVOLVIMENTO_PROJECTOS_INTERNOS\DASHBOARD_DIARIO\emails_contrapartes\BNP_Valuation_20250908.XLS

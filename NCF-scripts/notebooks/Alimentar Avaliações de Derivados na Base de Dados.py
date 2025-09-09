@@ -53,8 +53,8 @@ ois_curve, discount_handle, tenors_ois, quotes_ois = build_estr_curve(curve_date
 euribor_curve, tenors_euribor, quotes_euribor = build_euribor_curve(curve_date_str,df_3month, df_ois)
 sensibilidades = swaps_krr_data(bbg_date,reference_date,trade_params_df,df_ois,df_3month,df_fixings_estr,df_fixings_euri,ois_curve, discount_handle, tenors_ois, quotes_ois,euribor_curve, tenors_euribor, quotes_euribor, shift = 0.0001, payments=3)
 VaR_parametrico_multi_fator = multi_factor_parametric_var(reference_date_str,curve_date_str, zero_rate_ois, zero_rate_3m, sensibilidades, horizon = "10D",alpha = 5/100,n_obs=3*30, choose_data = True)
-atualizar_bd_monitorizacao_derivados(df_derivados, final_df, VaR_parametrico_multi_fator, reference_date_str_2, excel_serial_to_date,trade_params_df,con_dashboard,salvar = True )
-atualizar_avaliacao_der_bd(final_df, df_derivados,reference_date_str_2 ,con_dashboard,salvar = True)
+atualizar_bd_monitorizacao_derivados(df_derivados, final_df, VaR_parametrico_multi_fator, reference_date_str_2, excel_serial_to_date,trade_params_df,con_dashboard,salvar = False )
+atualizar_avaliacao_der_bd(final_df, df_derivados,reference_date_str_2 ,con_dashboard,salvar = False)
 display("tabela bd mon_limites_derivados:", atualizar_bd_monitorizacao_derivados(df_derivados, final_df, VaR_parametrico_multi_fator, reference_date_str_2, excel_serial_to_date,trade_params_df,con_dashboard,salvar = False ))
 display("tabela bd avaliacao_derivados:", atualizar_avaliacao_der_bd(final_df, df_derivados,reference_date_str_2 ,con_dashboard,salvar = False))
 
